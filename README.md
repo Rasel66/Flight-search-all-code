@@ -3,6 +3,12 @@
 To test the output, click below the link. This is the live link of these projects. It takes some time because of free hosting. please wait or follow below the rules to run the project.
 (https://flight-search-app-nnbl.onrender.com/)
 
+Two Live Projects:
+1. Finix: https://rasel66.github.io/Finix/
+2. Ecommerce: https://ecommerce-using-mern-3hee.onrender.com/
+3. Finix: https://rasel66.github.io/Envato/
+4. Portfolio: https://dev-portfolio5437.pantheonsite.io/
+
 
 ## Available Scripts
 
