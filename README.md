@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#To test the output, click below the link. This is the live link of these projects.
+To test the output, click below the link. This is the live link of these projects.
 
 
 ## Available Scripts
