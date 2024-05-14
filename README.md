@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-To test the output, click below the link. This is the live link of these projects.
+To test the output, click below the link. This is the live link of these projects. It takes some time because of free hosting. please wait or follow below the rules to run the project.
+(https://flight-search-app-nnbl.onrender.com/)
 
 
 ## Available Scripts
